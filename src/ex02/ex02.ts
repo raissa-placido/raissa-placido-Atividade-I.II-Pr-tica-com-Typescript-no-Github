@@ -1,0 +1,1 @@
+export const concatenarComJoin = (array: string[]): string => array.join(' ');
